@@ -1,0 +1,77 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/block\/40?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/block_content\/basic"
+        }
+    },
+    "uuid": [
+        {
+            "value": "76e82d71-6ec8-4b2a-9d07-23ae5d33451e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-06-15T20:04:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "css_info",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-06-15T21:44:38+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><strong>CSS<\/strong><\/h4>\r\n\r\n<p><span><span>CSS. Stands for \"Cascading Style Sheet.\" Cascading style sheets are used to format the layout of Web pages. They can be used to define text styles, table sizes, and other aspects of Web pages that previously could only be defined in a page's HTML.<\/span><\/span><\/p>\r\n\r\n<h6><strong>EXPERIENCE 70%<\/strong><\/h6>\r\n",
+            "format": "basic_html",
+            "processed": "<h4><strong>CSS<\/strong><\/h4>\n\n<p><span><span>CSS. Stands for \"Cascading Style Sheet.\" Cascading style sheets are used to format the layout of Web pages. They can be used to define text styles, table sizes, and other aspects of Web pages that previously could only be defined in a page's HTML.<\/span><\/span><\/p>\n\n<h6><strong>EXPERIENCE 70%<\/strong><\/h6>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/block\/23?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/block_content\/basic"
+        }
+    },
+    "uuid": [
+        {
+            "value": "266eed2d-0d93-4855-8587-ba5b4ad98584"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-06-15T19:41:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "muse_info",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-06-15T21:39:17+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><strong>ADOBE MUSE<\/strong><\/h4>\r\n\r\n<p><span><span>Adobe Muse is a discontinued offline website builder used to create fixed, fluid, or adaptive websites, without the need to write code. It generates static pages, but does not manage hosting.<\/span><\/span><\/p>\r\n\r\n<h6><strong>EXPERIENCE 60%<\/strong><\/h6>\r\n",
+            "format": "basic_html",
+            "processed": "<h4><strong>ADOBE MUSE<\/strong><\/h4>\n\n<p><span><span>Adobe Muse is a discontinued offline website builder used to create fixed, fluid, or adaptive websites, without the need to write code. It generates static pages, but does not manage hosting.<\/span><\/span><\/p>\n\n<h6><strong>EXPERIENCE 60%<\/strong><\/h6>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

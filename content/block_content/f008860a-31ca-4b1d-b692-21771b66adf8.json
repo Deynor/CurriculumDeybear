@@ -1,0 +1,77 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/block\/51?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/block_content\/basic"
+        }
+    },
+    "uuid": [
+        {
+            "value": "f008860a-31ca-4b1d-b692-21771b66adf8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-06-15T20:23:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "second_description",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-06-15T22:37:11+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><strong>WHAT DO I LIKE TO DO?<\/strong><\/h4>\r\n\r\n<p><span lang=\"en\"><span>I love doing all kinds of things, especially those that do not require me to leave my home.<\/span> <span>I am a reserved person who prefers to have fun from the comfort of her home, and for that I have various hobbies with which I make my life more enjoyable. <\/span><span>These hobbies are usually quite traditional, but hey, it's what I like to do after all<\/span><\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<h4><strong>WHAT DO I LIKE TO DO?<\/strong><\/h4>\n\n<p><span lang=\"en\" xml:lang=\"en\" xml:lang=\"en\"><span>I love doing all kinds of things, especially those that do not require me to leave my home.<\/span> <span>I am a reserved person who prefers to have fun from the comfort of her home, and for that I have various hobbies with which I make my life more enjoyable. <\/span><span>These hobbies are usually quite traditional, but hey, it's what I like to do after all<\/span><\/span><\/p>\n\n<p>\u00a0<\/p>\n\n<p>\u00a0<\/p>\n\n<p>\u00a0<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

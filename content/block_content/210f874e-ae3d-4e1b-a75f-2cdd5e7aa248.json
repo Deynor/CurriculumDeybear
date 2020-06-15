@@ -1,0 +1,77 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/block\/3?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/block_content\/basic"
+        }
+    },
+    "uuid": [
+        {
+            "value": "210f874e-ae3d-4e1b-a75f-2cdd5e7aa248"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-06-15T19:04:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "first_description",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-06-15T21:59:24+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2><strong>WHAT IS THE PURPOSE OF THIS?<\/strong><\/h2>\r\n\r\n<p>Hi, I'm Deybear and I'm a designer. I want to welcome you my portfolio, here you will find too much about me, from my projects, to more personal topics. The objective of this is to expose myself as an artist to others in order to get closer to the public, and thus gain enough confidence, so that they are interested in me. I am looking for the clearest way to describe myself as a person and as a worker<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<h2><strong>WHAT IS THE PURPOSE OF THIS?<\/strong><\/h2>\n\n<p>Hi, I'm Deybear and I'm a designer. I want to welcome you my portfolio, here you will find too much about me, from my projects, to more personal topics. The objective of this is to expose myself as an artist to others in order to get closer to the public, and thus gain enough confidence, so that they are interested in me. I am looking for the clearest way to describe myself as a person and as a worker<\/p>\n\n<p>\u00a0<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

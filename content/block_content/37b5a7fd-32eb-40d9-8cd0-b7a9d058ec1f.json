@@ -1,0 +1,77 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/block\/34?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/block_content\/basic"
+        }
+    },
+    "uuid": [
+        {
+            "value": "37b5a7fd-32eb-40d9-8cd0-b7a9d058ec1f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-06-15T19:57:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "visual_info",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-06-15T21:44:38+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><strong>VISUAL STUDIO CODE<\/strong><\/h4>\r\n\r\n<p><span><span><strong>Visual Studio Code<\/strong> is a free source-<strong>code<\/strong> editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent <strong>code<\/strong> completion, snippets, <strong>code<\/strong> refactoring, and embedded Git.<\/span><\/span><\/p>\r\n\r\n<h6><strong>EXPERIENCE 50%<\/strong><\/h6>\r\n",
+            "format": "basic_html",
+            "processed": "<h4><strong>VISUAL STUDIO CODE<\/strong><\/h4>\n\n<p><span><span><strong>Visual Studio Code<\/strong> is a free source-<strong>code<\/strong> editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent <strong>code<\/strong> completion, snippets, <strong>code<\/strong> refactoring, and embedded Git.<\/span><\/span><\/p>\n\n<h6><strong>EXPERIENCE 50%<\/strong><\/h6>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

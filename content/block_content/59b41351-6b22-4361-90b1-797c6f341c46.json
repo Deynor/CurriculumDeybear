@@ -1,0 +1,77 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/block\/55?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/block_content\/basic"
+        }
+    },
+    "uuid": [
+        {
+            "value": "59b41351-6b22-4361-90b1-797c6f341c46"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-06-15T20:26:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "info": [
+        {
+            "value": "chat_info",
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-06-15T20:26:56+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><strong>CHAT WITH FRIENDS!<\/strong><\/h4>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique quis justo in dignissim. Quisque scelerisque arcu ut nunc euismod, sit amet hendrerit dui finibus.<\/p>\r\n\r\n<p>Vivamus placerat nunc nisi, molestie efficitur risus auctor et. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vitae commodo sapien.<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<h4><strong>CHAT WITH FRIENDS!<\/strong><\/h4>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique quis justo in dignissim. Quisque scelerisque arcu ut nunc euismod, sit amet hendrerit dui finibus.<\/p>\n\n<p>Vivamus placerat nunc nisi, molestie efficitur risus auctor et. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vitae commodo sapien.<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}
